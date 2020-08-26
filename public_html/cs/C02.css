@@ -16,7 +16,7 @@ body {
     min-height: 100%;}
 
 #content {
-    background-color: #fff;
+  background-color: #ffffff;
     border: 3px double #31373f;
     color: #31373f;
     display: inline-block;
@@ -24,8 +24,8 @@ body {
     margin: 20px auto 50px auto;
     max-width: 580px;
     min-height: 4em;
-    overflow: auto;
-    text-align: center;}
+    overflow: overlay;
+    text-align: justify;}
 
 h1, h2 {
     text-indent: 100%;
